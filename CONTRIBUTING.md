@@ -3,9 +3,9 @@ There are many ways you can help improve this repository!
 
 For example:
 
-fix a bug: we have a list of issues, or maybe you found your own.
-contribute a translation: find an example with a _locales directory in it, and create a translation of the example's localizable strings into a new language.
-Documentation! 
+1. fix a bug: we have a list of issues, or maybe you found your own.
+2. contribute a translation: find an example with a _locales directory in it, and create a translation of the example's localizable strings into a new language.
+3. Documentation! 
 
 Guidelines for examples
 Examples should:
